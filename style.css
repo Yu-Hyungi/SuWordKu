@@ -9,6 +9,7 @@ input{
 
 h1{
     border-bottom: 3px solid black;
+    width: 310px;
 }
 
 button{
