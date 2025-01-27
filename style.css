@@ -1,0 +1,24 @@
+input{
+    border: 3px solid rgb(107, 107, 116);
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1{
+    border-bottom: 3px solid black;
+}
+
+button{
+    font-size: 30px;
+}
+
+#grid{
+    display: grid;
+    grid-template-columns: 60px 60px 60px 60px 60px;
+    grid-row-gap: 20px;
+    margin-bottom: 20px;
+}
+
